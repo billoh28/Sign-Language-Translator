@@ -1,0 +1,8 @@
+31/01/2020
+
+Installed appropriate packages.
+Wrote a script to sort our datasets.
+Program was created to edit datasets to greyscale and resize them.
+Wrote a script to pickle out datasets into multidimensional arrays.
+Wrote a programme to split out datasets into training data and testing data.
+Meeting with Alistair Sutherland scheduled

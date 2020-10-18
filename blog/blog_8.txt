@@ -1,0 +1,5 @@
+26/02/2020
+
+Trained two CNN models on different datasets to achieve the optimum results. One model was trained on an uniform distribution of data while the other was trained on oversampled data.
+This is data which contains an uneven distribution of data, meaning more images were added for labels which were not being predicted accurately. This was done with the hope that the model would predict these labels more accurately.
+Another model was trained where no changes were made to the dataset i.e. distribution was somewhat uniform but not perfectly even. However, this model was later droppped as it produced inaccurate predictions in comparasion to the combination of the other model.

@@ -1,0 +1,7 @@
+02/03/2020
+
+Changed dataset manipulation programs to include noise labels and to produce test data which is evenly distributed.
+Pretrained model code was updated to predict for noise labels.
+Spell checker program was also improved, and incoporated fully into parent.py.
+The confusion matrix program was improved and renamed. This program, model_stats.py, takes multiple models and produces individual statistics and combined statistics on these models.
+These statistics include confusion matrices and graphs showing number of correct and incorrect predictions for each label.

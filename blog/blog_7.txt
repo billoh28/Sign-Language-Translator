@@ -1,0 +1,7 @@
+24/02/2020
+
+Wrote CNN template to implement pre trained models.
+Tested multiple Keras pretarined models to determine the best model to use for our data.
+Tested these models in Google Colab and displayed results in tensorboard.
+Determined that Xception produced the most consistent validation accuracy and validation loss.
+Changed the dataset manipulation program in order to add random background noise to increase the generalisation.

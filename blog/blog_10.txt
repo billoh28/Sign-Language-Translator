@@ -1,0 +1,10 @@
+01/04/2020
+
+Created confusion_matrix.py which generates a confusion matrix in order to visualise the output of models. This code compares the predicted labels of the model to the true label values.
+This provides a visual representation of the labels the model is miss predicting and what labels it is predicting instead. In other words, this tests the accuracy of the model.
+Updated parent.py to be fully compatable with three models and also changed confidence level code to deal with label bias in the models.
+Renamed and refactored dataset processing program. The new program, create_even_data.py, produces datasets with even training data and contains the code within a class which can be implemented by other dataset manipulation programs.
+Created create_oversampled_data.py, which inherits aforementioned dataset class and adds more images to it for labels which are being oversampled.
+Spell checker improved.
+Also wrote custom loss function in an attempt to improve the accuracy of the models. The methodology of this program was to increase loss for predictions which are many letters away from the true label values.
+However, this produced unsatisfying results.

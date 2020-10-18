@@ -1,0 +1,6 @@
+06/02/2020
+
+Created Text to audio file.
+Programmed basic Neural Network.
+Running Neural Network but very slow.
+Resizing and cropping images for Neural network to run faster ( created program to do this ).

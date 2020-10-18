@@ -1,0 +1,9 @@
+28/02/2020
+
+Created Parent program called parent.py which combines all necessary programs and models in order to produce predictions from a video.
+Initially, parent.py used the three models described in the previous blog.
+Confidence level function was introduced to parent.py to only take predictions over a certain confidence level in order to improve predictions.
+Euclidean distance progam also incoporated into parent.py in an attempt to remove duplicate frames.
+Implemented spell checking program as the CNN is fed intermediate frames, and the model attempts to predict these irrelevant frames.
+Spell checker should reduce the impact of these irrelevant frames.
+Also updated the pretrained model code.

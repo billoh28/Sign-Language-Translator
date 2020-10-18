@@ -1,0 +1,5 @@
+13/02/2020
+
+Compiled and trained simple CNN on small ISL dataset.
+Promising results produced.
+Pushed code and saved trained model to gitlab.

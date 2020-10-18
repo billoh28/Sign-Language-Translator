@@ -1,0 +1,7 @@
+21/02/2020
+
+Wrote multiple programs to tune hyperparameters of CNN models.
+CNN Model from scratch kept getting stuck at 55% accuracy with validation data.
+Implemented kernel initialisers and L2 regularisation to reduce overfitting.
+Ran program to test multiple different variations of CNN model, by way of variations in number of layers, layer size, window size and regularisation.
+Displayed results in Tensorboard by way of callbacks.
